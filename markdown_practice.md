@@ -1,8 +1,7 @@
 ## Day 3 Questions
 
 1. What is a conditional statement? Give three examples.  
-Conditional statements will evaluate whether the statement is true or false and then execute code depending on the results or go to the next conditional statement until program is told to end.
-
+Conditional statements will evaluate whether the statement is true or false and then execute code depending on the results or go to the next conditional statement until program is told to end.  
 Examples:
 ```ruby
 slices_of_bread = 2
