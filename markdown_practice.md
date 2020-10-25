@@ -37,7 +37,7 @@ Conditional statements will evaluate whether the statement is true or false and 
   end
   ```
 
-  1. Why might you want to use an if-statement?  
+1. Why might you want to use an if-statement?  
 You want to use an if-statement if your resulting code is dependent on a variable being true or false.
 
 1. What is the Ruby syntax for an if statement?  
