@@ -7,38 +7,35 @@ Examples:
 slices_of_bread = 2
 
 if slices_of_bread >= 2
-  puts "I have enough bread to make a sandwich."
+ puts "I have enough bread to make a sandwich."
 elsif slices_of_bread == 1
-  puts "I can only make half a sandwich."
+ puts "I can only make half a sandwich."
 else
-  puts "I don't have enough bread for a sandwich."
+ puts "I don't have enough bread for a sandwich."
 end
 ```
-
 ```ruby
 dogs = 1
 
 if dogs == 1
-  puts "I love my dog!"
+ puts "I love my dog!"
 elsif dogs >= 1
-  puts "I love all my dogs!"
+ puts "I love all my dogs!"
 else
-  puts "I need a dog"
+ puts "I need a dog"
 end
 ```
-
 ```ruby
 senior_discount = 0.9
 price = 10.50
 age = 65
 
 if age >= 65
-  puts "Your total is #{(price * senior_discount).round(2)} with your discount!"
+ puts "Your total is #{(price * senior_discount).round(2)} with your discount!"
 else
-  puts "You're not old enough for the senior discount."
+ puts "You're not old enough for the senior discount."
 end
 ```
-
 1. Why might you want to use an if-statement?  
 You want to use an if-statement if your resulting code is dependent on a variable being true or false.
 
